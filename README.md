@@ -3,8 +3,7 @@
 
 ### ML Engineer · LLM Systems · MLOps · Distributed AI
 
-*Building production-grade AI systems — from research to real-world deployment.*
-=======
+
 <<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0969da&height=200&section=header&text=Mohammed%20Kahab%20K&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20MLOps%20%C2%B7%20Automation&descAlignY=58&descSize=16&descColor=8b949e" />
 
