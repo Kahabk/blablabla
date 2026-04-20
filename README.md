@@ -1,7 +1,5 @@
 <div align="center">
 
-<<<<<<< HEAD
-# Mohammed Kahab K
 
 ### ML Engineer · LLM Systems · MLOps · Distributed AI
 
